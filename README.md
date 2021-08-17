@@ -1,16 +1,17 @@
-### Hi there 👋
+## Well hello, and welcome to my README
 
-<!--
-**mperrotti/mperrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![brenda-dance](https://user-images.githubusercontent.com/2313998/129777245-d6f5c86b-da65-4ba9-9705-93c72d6c35e5.gif)
 
-Here are some ideas to get you started:
+👨‍💻 I work on design and front-end projects, and I'm especially into design systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌆 Living in Brooklyn
+
+😄 Pronouns: he/him
+
+💬 Ask me about: CSS, houseplants, the small managerie living in my house, and podcast or music recommendations
+
+📫 How to reach me: mperrotti573@gmail.com
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/mperrotti/count.svg)
